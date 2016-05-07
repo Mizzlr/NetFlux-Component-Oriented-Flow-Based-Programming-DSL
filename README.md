@@ -126,3 +126,18 @@ $ python test.py
 More to come. DSL with my own Compiler. Please fork and develop this feature.
 I will upload BNF grammar and specs for my DSL.
 
+### Application Areas:
+
+- Deep Learning / Machine Learning (Here Flux is Tensors, Matrices, and Vectors). Layers of neural Network forms the Component
+- Digital Signal Processing (Components like Sampler, Quantizer, FFT-er, Amplifier, Band Filters, Multiplexer etc, here Signals flow)
+- Image/Video Processing 
+- Text/Stream Processing
+- Digital Circuit Simulation
+- Queueing Network Simulation 
+- Embedded Systems with Super loop based Event Handling
+- Map Reduce Paradigm for Big Data (Mapper, Shuffler, Splitter, Combiner, Reducer etc)
+- Internet of Things
+- Web Server/DB programming
+- UNIX style pipe and filter
+- Audio Processing/Sound Enhancement
+- Open and Closed Loop System
